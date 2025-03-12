@@ -1,1 +1,1 @@
-# practice-biomedical-data-science
+# 医療データ科学実習
