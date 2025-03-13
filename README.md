@@ -1,4 +1,4 @@
-# 医療データ科学実習
+# 医療データ科学実習（Practice of Biomedical Data Science）
 
 | 講師  | 松井茂之，松井孝太，江本遼 |
 | --- | -------- |
