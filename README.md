@@ -13,6 +13,7 @@
 
 ## 準備
 - [R](https://www.r-project.org)および[RStudio](https://posit.co/download/rstudio-desktop/)を各自のパソコンにインストールします（インストールについては初回の講義時に説明します）．
+  - Rは統計を含むデータ解析に特化したオープンソースのプログラミング言語であり，医学・生物学研究をはじめ多くの領域で広く用いられています．
   - RStudioはR用の主要な統合開発環境 (Integrated Development Environment, IDE) です．多くの人がRStudioを使ってRのコーディング，実験管理を行います．
 - 講義中のRコードの共有には[Google Colab](https://colab.research.google.com)を利用します．利用にはGoogleアカウントが必要となりますので，持っていない場合は作成をしてください（アカウントの作成は無料でできます）．
 
