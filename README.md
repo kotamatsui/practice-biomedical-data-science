@@ -38,9 +38,11 @@
 ### 第13回: 診断・予後解析研究におけるデータ解析
 ### 第14回: グループ実習5: プレゼンテーション
 
+<!--
 ## 講義資料
 - [スライド資料 (PDF)](slides/lecture1.pdf)
 - [Python コード](notebooks/lecture1.ipynb)
+-->
 
 ---
 © 2025 Kota Matsui
