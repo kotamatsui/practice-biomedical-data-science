@@ -17,7 +17,7 @@
   - RStudioはR用の主要な統合開発環境 (Integrated Development Environment, IDE) です．多くの人がRStudioを使ってRのコーディング，実験管理を行います．
 - 講義中のRコードの共有には[Google Colab](https://colab.research.google.com)を利用します．利用にはGoogleアカウントが必要となりますので，持っていない場合は作成をしてください（アカウントの作成は無料でできます）．
 
-## 講義スケジュール
+## 講義スケジュールとコンテンツ
 凡例：📖 スライド資料，💻 Google Colab
 ### 第1回: データ解析ソフト「R」事始め, インストール, 環境設定
 - Rのインストール方法 [📖](Session1/r-install.pdf)
