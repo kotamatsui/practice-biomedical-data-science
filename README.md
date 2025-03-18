@@ -23,6 +23,7 @@
 - RStudioのインストール方法 [スライド資料](rstudio-install.pdf)
 - RとRStudioの環境設定
 - R言語事始め
+  - Rの変数とデータ型 [Google Colab](https://colab.research.google.com/drive/1xxZ20hLT_deXhGRLtRpkht2t9KJ6G4cw?usp=sharing)
 
 ### 第2回: データセットの作成
 ### 第3回: データの集計
