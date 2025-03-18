@@ -20,8 +20,8 @@
 ## 講義スケジュール
 凡例：📖 スライド資料，💻 Google Colab
 ### 第1回: データ解析ソフト「R」事始め, インストール, 環境設定
-- Rのインストール方法 [📖](r-install.pdf)
-- RStudioのインストール方法 [📖](rstudio-install.pdf)
+- Rのインストール方法 [📖](~Session1/r-install.pdf)
+- RStudioのインストール方法 [📖](~Session1/rstudio-install.pdf)
 - RとRStudioの環境設定
 - R言語事始め
   - Rの変数とデータ型 [💻](https://colab.research.google.com/drive/1xxZ20hLT_deXhGRLtRpkht2t9KJ6G4cw?usp=sharing)
