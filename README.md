@@ -22,7 +22,7 @@
 ### 第1回: データ解析ソフト「R」事始め, インストール, 環境設定
 - Rのインストール方法 [📖](Session1/r-install.pdf)
 - RStudioのインストール方法 [📖](Session1/rstudio-install.pdf)
-- RとRStudioの環境設定
+- R言語で何ができるか？[📖](https://docs.google.com/presentation/d/1u0a3hWlMR5mHTj-T0kdA8jYybtOcmzEOwPtMs_iRWzk/edit?usp=sharing)
 - R言語事始め
   - Rの変数とデータ型 [💻](https://colab.research.google.com/drive/1xxZ20hLT_deXhGRLtRpkht2t9KJ6G4cw?usp=sharing)
 
