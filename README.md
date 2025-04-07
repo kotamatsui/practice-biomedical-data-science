@@ -25,6 +25,7 @@
 - R言語で何ができるか？[📖](https://docs.google.com/presentation/d/1u0a3hWlMR5mHTj-T0kdA8jYybtOcmzEOwPtMs_iRWzk/edit?usp=sharing)
 - R言語事始め
   - Rの変数とデータ型 [💻](https://colab.research.google.com/drive/1xxZ20hLT_deXhGRLtRpkht2t9KJ6G4cw?usp=sharing)
+  - Rによる擬似乱数生成 [💻](https://colab.research.google.com/drive/1A6nBKT40T_vSZuXONgFgAgMF8QVzqG7w?usp=sharing)
 
 ### 第2回: データセットの作成
 ### 第3回: データの集計
