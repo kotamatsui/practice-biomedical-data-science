@@ -22,7 +22,7 @@
 - 講義中のRコードの共有には[Google Colab](https://colab.research.google.com)を利用します．利用にはGoogleアカウントが必要となりますので，持っていない場合は作成をしてください（アカウントの作成は無料でできます）．
 
 ## 講義スケジュールとコンテンツ
-凡例：📖 スライド資料，💻 Google Colab
+凡例：📖 スライド資料，💻 Google Colab，💡 slido (質疑応答フォーラム)
 ### 第1回: データ解析ソフト「R」事始め, インストール, 環境設定
 - Rのインストール方法 [📖](Session1/r-install.pdf)
 - RStudioのインストール方法 [📖](Session1/rstudio-install.pdf)
@@ -32,7 +32,14 @@
   - ベクトル演算 [💻](https://colab.research.google.com/drive/1C_NLAvUe4bMCiv9lQGOqH6wAvTTFd_9P?usp=sharing)
   <!-- - Rによる擬似乱数生成 [💻](https://colab.research.google.com/drive/1A6nBKT40T_vSZuXONgFgAgMF8QVzqG7w?usp=sharing) -->
 
-### 第2回: データセットの作成
+### 第2回: データセットの作成　[💡](https://app.sli.do/event/ntA1oiNfNnSgbddJ8sUhiQ)
+- R言語事始め（続き）
+  - 外部データのRへの読み込みとRから外部ファイルへの書き出し
+  - Rによる擬似乱数生成 [💻](https://colab.research.google.com/drive/1A6nBKT40T_vSZuXONgFgAgMF8QVzqG7w?usp=sharing)
+- Microsoft Excelで作られたデータの取り扱い
+  - Excel上でのデータ作成，データテーブルの修正とcsvファイルへの変換
+  - Rへの読み込みとR上でのデータチェック
+ 
 ### 第3回: データの集計
 ### 第4回: グラフの作成1
 ### 第5回: グラフの作成2
