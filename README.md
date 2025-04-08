@@ -23,7 +23,7 @@
 - Rのインストール方法 [📖](Session1/r-install.pdf)
 - RStudioのインストール方法 [📖](Session1/rstudio-install.pdf)
 - R言語で何ができるか？[📖](https://docs.google.com/presentation/d/1u0a3hWlMR5mHTj-T0kdA8jYybtOcmzEOwPtMs_iRWzk/edit?usp=sharing)
-- R言語事始め
+- R言語事始め [📖](Session1/R言語事始め.pdf)
   - Rの変数とデータ型 [💻](https://colab.research.google.com/drive/1xxZ20hLT_deXhGRLtRpkht2t9KJ6G4cw?usp=sharing)
   - ベクトル演算 [💻](https://colab.research.google.com/drive/1C_NLAvUe4bMCiv9lQGOqH6wAvTTFd_9P?usp=sharing)
   <!-- - Rによる擬似乱数生成 [💻](https://colab.research.google.com/drive/1A6nBKT40T_vSZuXONgFgAgMF8QVzqG7w?usp=sharing) -->
