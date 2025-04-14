@@ -34,8 +34,11 @@
 
 ### 第2回: データセットの作成　[💡](https://app.sli.do/event/ntA1oiNfNnSgbddJ8sUhiQ)
 - R言語事始め（続き）
-  - 外部データのRへの読み込みとRから外部ファイルへの書き出し
-  - Rによる擬似乱数生成 [💻](https://colab.research.google.com/drive/1A6nBKT40T_vSZuXONgFgAgMF8QVzqG7w?usp=sharing)
+  - Rにおけるデータテーブルの作成
+  - R上のデータテーブルの外部ファイルへの書き出しと外部データのRへの読み込み
+  - Rの組み込み関数
+  - 外部パッケージのインストールとインポート
+    - Rによる擬似乱数生成 [💻](https://colab.research.google.com/drive/1A6nBKT40T_vSZuXONgFgAgMF8QVzqG7w?usp=sharing)
 - Microsoft Excelで作られたデータの取り扱い
   - Excel上でのデータ作成，データテーブルの修正とcsvファイルへの変換
   - Rへの読み込みとR上でのデータチェック
