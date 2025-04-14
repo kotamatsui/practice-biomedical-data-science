@@ -1,0 +1,56 @@
+# p.4
+getwd()
+
+# p.5
+library(readxl)
+df_example1 <- as.data.frame(read_excel("example1.xlsx"))
+as.data.frame(df_example1)
+
+# p.9
+# RStudio
+# 指定なしだとError
+df_example1 <- read.csv("example1_cp932.csv")
+# fileEncoding の指定
+df_example1 <- read.csv("example1_cp932.csv",
+fileEncoding="CP932")
+
+# p.10
+df_example2 <- read.csv("example2.csv", skip = 2)
+
+# p.15
+df_example3 <- read.csv("example3.csv")
+# データの型を確認
+class(df_example3)
+# データの大きさを確認
+dim(df_example3)
+# 構造の確認（列名・型・一部の値）
+str(df_example3)
+# 要約統計量（平均・最小・最大など）と欠損の有無を確認
+summary(df_example3)
+# 先頭6行を表示
+head(df_example3)
+
+# p.16
+# 文字列の列を factor 型で読み込み
+df_example3 <- read.csv("example3.csv", stringsAsFactors = TRUE)
+# summary()関数で先程との違いを確認
+summary(df_example3)
+
+# p.17
+# 欠損のある列を確認
+summary(df_example3)
+# (temperatureに欠測あり, statusは一部の欠損がカテゴリとして
+認識されている）
+# 欠損かどうかの判定
+is.na(df_example3)
+# 欠損の個数を集計
+sum(is.na(df_example3))
+
+
+# p.18 演習問題(csvに変換後)
+setwd(data)
+df_exercise1 <- read.csv("exercise1.csv")
+class(df_exercise1)
+summary(df_exercise1)
+
+
