@@ -39,8 +39,12 @@
   - Rの組み込み関数
   - 外部パッケージのインストールとインポート
     - Rによる擬似乱数生成 [💻](https://colab.research.google.com/drive/1A6nBKT40T_vSZuXONgFgAgMF8QVzqG7w?usp=sharing)
+    - ベクトル演算 [💻](https://colab.research.google.com/drive/1C_NLAvUe4bMCiv9lQGOqH6wAvTTFd_9P?usp=sharing)
 - Microsoft Excelで作られたデータの取り扱い
-  - Excel上でのデータ作成，データテーブルの修正とcsvファイルへの変換
+  - Rに正しくデータを読み込むための前処理
+    - Excel上でのデータ作成，データテーブルの修正とCSVファイルへの変換
+    - よくあるExcelやCSVの問題点と対処法
+    - 適切なデータセットとは
   - Rへの読み込みとR上でのデータチェック
  
 ### 第3回: データの集計
