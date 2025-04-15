@@ -40,7 +40,7 @@
   - 外部パッケージのインストールとインポート
     - Rによる擬似乱数生成 [💻](https://colab.research.google.com/drive/1A6nBKT40T_vSZuXONgFgAgMF8QVzqG7w?usp=sharing)
     - ベクトル演算 [💻](https://colab.research.google.com/drive/1C_NLAvUe4bMCiv9lQGOqH6wAvTTFd_9P?usp=sharing)
-    - 乱数生成とプロット [💻]()
+    - 乱数生成とプロット [💻]
 - Microsoft Excelで作られたデータの取り扱い [📖](Session2/R_Excel_Data.pdf)  [データセット]
 (https://www.dropbox.com/scl/fo/bx4rkyx48eo1o209w69nl/ACSn0dwcNiWNhFl9g0LnLnI?rlkey=5iujgakjr7bqeepum3xqar7tk&st=bk8w0bfo&dl=0)
   - Rに正しくデータを読み込むための前処理
