@@ -53,7 +53,7 @@
   - R言語事始め（続き）スライドp18 乱数生成とプロットのサンプルコードを追加
 
 ### 第3回: データの集計 [📖](Session3/250422_pbds_session3.pdf) [💡](https://app.sli.do/event/6sQCjSZQvSq31Bvj2Q9aUa)
-- ベース機能を使っての表作成 [📖](Session2/Table_Creation_with_Base_R.pdf)
+- ベース機能を使っての表作成 [📖](Session3/Table_Creation_with_Base_R.pdf)
   - 一変数：離散変数の頻度集計，連続変数の頻度集計
   - 二変数：離散変数のクロス集計
   - 要約統計量算出（連続変数の平均，中央値，分散，標準偏差など）
