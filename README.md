@@ -62,7 +62,7 @@
   - dplyrとjanitorを使ったデータ操作・集計，クロス集計や頻度表の作成
   - 組み込み関数を用いた集計と外部パッケージを用いた集計の違い
 
-### 第4回: グラフの作成1
+### 第4回: グラフの作成1 [💡](https://app.sli.do/event/c3tMS5GsSGjpX49jYKgP4Q/live/questions)　
 - ベース機能を使ったグラフの作成
   - 一次元の連続変数の経験分布（相対頻度，累積頻度，生存頻度），多群の重ね描き，ボックスプロット [📖](Session4/250513_pbds_session4.pdf)
   - 二次元の連続変数の散布図，多群の重ね描き，時系列 [📖](Session4/Figure_two_variables (1).pdf)
