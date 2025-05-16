@@ -68,6 +68,9 @@
   - 二次元の連続変数の散布図，多群の重ね描き，時系列 [📖](Session4/Figure_two_variables.pdf) [💻](https://colab.research.google.com/drive/1s3Bbdw9f8833uIpUJkdoJNt0f5UiKyMJ#scrollTo=e901a991)
   - タイトル，軸線，ラベルフォント・サイズ，プロット点の大きさ，凡例などの設定方法
  
+250516更新：
+- 一次元の連続変数のプロットのスライドに演習問題のサンプルコードと実行例を追加 [📖](Session4/250513_pbds_session4_updated.pdf)
+ 
 ### 第5回: グラフの作成2
 ### 第6回: 記述統計
 ### 第7回: シミュレーション, 統計的推測の基本概念
