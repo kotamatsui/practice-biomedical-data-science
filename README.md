@@ -23,7 +23,7 @@
 
 ## 講義スケジュールとコンテンツ
 凡例：📖 スライド資料，💻 Google Colab，💡 slido (質疑応答フォーラム)
-### 第1回: データ解析ソフト「R」事始め, インストール, 環境設定
+### 第1回(4/8): データ解析ソフト「R」事始め, インストール, 環境設定
 - Rのインストール方法 [📖](Session1/r-install.pdf)
 - RStudioのインストール方法 [📖](Session1/rstudio-install.pdf)
 - R言語で何ができるか？[📖](Session1/R_demo_logistic.pdf)
@@ -32,7 +32,7 @@
   - ベクトル演算 [💻](https://colab.research.google.com/drive/1C_NLAvUe4bMCiv9lQGOqH6wAvTTFd_9P?usp=sharing)
   <!-- - Rによる擬似乱数生成 [💻](https://colab.research.google.com/drive/1A6nBKT40T_vSZuXONgFgAgMF8QVzqG7w?usp=sharing) -->
 
-### 第2回: データセットの作成　[💡](https://app.sli.do/event/ntA1oiNfNnSgbddJ8sUhiQ)
+### 第2回(4/15): データセットの作成　[💡](https://app.sli.do/event/ntA1oiNfNnSgbddJ8sUhiQ)
 - R言語事始め（続き）[📖](Session2/250415_pbds_session2.pdf)
   - Rにおけるデータテーブルの作成
   - R上のデータテーブルの外部ファイルへの書き出しと外部データのRへの読み込み
@@ -52,7 +52,7 @@
   - R言語事始め（続き）スライドp14 Rによる数値計算とベクトル演算の演習問題を正しいものに差し替え
   - R言語事始め（続き）スライドp18 乱数生成とプロットのサンプルコードを追加
 
-### 第3回: データの集計 [📖](Session3/250422_pbds_session3.pdf) [💡](https://app.sli.do/event/6sQCjSZQvSq31Bvj2Q9aUa)　
+### 第3回(4/22): データの集計 [📖](Session3/250422_pbds_session3.pdf) [💡](https://app.sli.do/event/6sQCjSZQvSq31Bvj2Q9aUa)　
 - ベース機能を使っての表作成 [📖](Session3/Table_Creation_with_Base_R.pdf) [演習問題（発展）](https://www.dropbox.com/scl/fo/evreyzkmf7rsb51s1khrt/AIIALdV87EixxKG4kh_8QfM?rlkey=0wiqmbuqlhazc282ecmlkvllu&st=yqand3ao&dl=0)
   - 一変数：離散変数の頻度集計，連続変数の頻度集計
   - 二変数：離散変数のクロス集計
@@ -62,7 +62,7 @@
   - dplyrとjanitorを使ったデータ操作・集計，クロス集計や頻度表の作成
   - 組み込み関数を用いた集計と外部パッケージを用いた集計の違い
 
-### 第4回: グラフの作成1 [💡](https://app.sli.do/event/c3tMS5GsSGjpX49jYKgP4Q/live/questions)　
+### 第4回(5/13): グラフの作成1 [💡](https://app.sli.do/event/c3tMS5GsSGjpX49jYKgP4Q/live/questions)　
 - ベース機能を使ったグラフの作成
   - 一次元の連続変数の経験分布（相対頻度，累積頻度，生存頻度），多群の重ね描き，ボックスプロット [📖](Session4/250513_pbds_session4.pdf)
   - 二次元の連続変数の散布図，多群の重ね描き，時系列 [📖](Session4/Figure_two_variables.pdf) [💻](https://colab.research.google.com/drive/1s3Bbdw9f8833uIpUJkdoJNt0f5UiKyMJ#scrollTo=e901a991)
@@ -71,13 +71,13 @@
 250516更新：
 - 一次元の連続変数のプロットのスライドに演習問題のサンプルコードと実行例を追加 [📖](Session4/250513_pbds_session4_updated.pdf)
  
-### 第5回: グラフの作成2
+### 第5回(5/20): グラフの作成2
 - パッケージを使ったグラフの作成
   - 一次元の連続変数の経験分布（相対頻度，累積頻度，生存頻度），多群の重ね描き，ボックスプロット [📖](Session5/250520_pbds_session5.pdf)
   - 二次元の連続変数の散布図，多群の重ね描き，時系列 [📖](Session5/ggplot_two_variables.pdf)
   - タイトル，軸線，ラベルフォント・サイズ，プロット点の大きさ，凡例などの設定方法
 
-### 第6回: 記述統計
+### 第6回(5/27): 記述統計
 - 一次元の離散変数，連続変数に対する  [📖](Session6/250527_pbds_session6.pdf)
   - 経験分布，要約統計量（平均，分散，標準偏差，パーセンタイル）
   - 歪んだ分布の問題と対応
@@ -92,7 +92,7 @@
 250603更新：
   - 前半のスライドに前回のslidoの回答を追加 [📖](Session6/250527_pbds_session6_update.pdf)
     
-### 第7回: シミュレーション, 統計的推測の基本概念　前半 [📖](Session7/250603_pbds_session7_ver2.pdf) 後半 [📖](Session7/CLT_CI.pdf)
+### 第7回(6/3): シミュレーション, 統計的推測の基本概念　前半 [📖](Session7/250603_pbds_session7_ver2.pdf) 後半 [📖](Session7/CLT_CI.pdf)
 - 興味あるパラメータの推定
 - 推定量の分布，分散，標準誤差，信頼区間，被覆確率（一様分布，正規分布，指数分布，ポアソン分布，ベルヌーイ分布）
 - 多数の独立なシミュレーションの実行
@@ -102,7 +102,7 @@
 250603更新：
   - 前半のスライドの数式の崩れの修正，p66-67のサンプルコードのミスを修正
 
-### 第8回: 統計的仮説検定の基本概念とサンプルサイズ設計
+### 第8回(6/10): 統計的仮説検定の基本概念とサンプルサイズ設計
 - 仮説検定の基本概念 [📖](Session8/250610_pbds_session8.pdf)， 検出力曲線のサンプルコード：[💻](Session8/power_simulation_sample_size.txt)
   - 仮説検定のロジック，片側/両側検定
   - 帰無仮説/対立仮説，有意水準，p値
@@ -110,12 +110,12 @@
 - サンプルサイズ設計 [📖](Session8/sample_size.pdf)
 
   
-### 第9回: グループ実習1: データ選択・収集, 解析計画書
-### 第10回: グループ実習2: データ解析
-### 第11回: グループ実習3: データ解析
-### 第12回: グループ実習4: 報告資料の作成
-### 第13回: 診断・予後解析研究におけるデータ解析
-### 第14回: グループ実習5: プレゼンテーション
+### 第9回(6/17): グループ実習1: データ選択・収集, 解析計画書
+### 第10回(6/24): グループ実習2: データ解析
+### 第11回(7/1): グループ実習3: データ解析
+### 第12回(7/8): _コーディングテスト_ / グループ実習4: 報告資料の作成
+### 第13回(7/15): 診断・予後解析研究におけるデータ解析
+### 第14回(7/22): グループ実習5: プレゼンテーション
 
 <!--
 ## 講義資料
