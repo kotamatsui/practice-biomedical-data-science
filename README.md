@@ -113,7 +113,7 @@
   - 前半の最後の演習問題のサンプルコードを追加（真の反応率を変えたときの検出力曲線の描画）[💻](Session8/power_simulation_true_response_rate.txt)
 
   
-### 第9回(6/17): グループ実習1: データ選択・収集, 解析計画書　
+### 第9回(6/17): グループ実習1: データ選択・収集, 解析計画書　[💡](https://app.sli.do/event/gPjJ3NeA5yTPjNGRw7YDff)
 - グループワーク実施要項 [📖](Session9/group_projects.pdf)
 - 班分けはPandAにアップロードしてあるので各自確認の上班ごとの位置に着席する
 
