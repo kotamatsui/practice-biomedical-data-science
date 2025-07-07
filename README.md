@@ -124,9 +124,12 @@
 ### 第11回(7/1): グループ実習3: データ解析
 ### 第12回(7/8): コーディングテスト / グループ実習4: 報告資料の作成
   **コーディングテスト（3限目，13:15-14:45）**
-  - 第8回までの内容に関する習得度確認のためのテスト
-  - 教員が適当なデータセットのファイルを共有する．指定された解析を実施し，得られた結果をファイルとして出力したものを提出する
-  - 持ち込み可，web検索可，**生成AIは不可**，**相談は不可**
+  - 試験問題はPandAにアップロードします
+  - 試験時間：60分（Exam duration: 60 minutes）
+  - 資料の持ち込みおよびweb検索は可．生成AIの能動的な使用と周囲との相談は不可（You can bring reference materials and perform web searches. Active use of generative AI and consultation with others are not allowed）
+  - 自身のR，RStudio，またはGoogle Colab環境で実施すること（You must complete the tasks using your own R, RStudio, or Google Colab environment）
+  - テキストエディタは自由（You can use any text editor of your choice）
+  - 各問題の出力は，指定された方法で問題ごとの提出フォームからアップロードしてください（Upload the output for each question using the designated submission form for that specific question）
 
 　 **グループワーク(4限目,15:00-16:30)**
   - データ解析の内容をfix
