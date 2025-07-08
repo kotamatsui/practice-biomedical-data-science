@@ -123,7 +123,7 @@
   
 ### 第11回(7/1): グループ実習3: データ解析
 ### 第12回(7/8): コーディングテスト / グループ実習4: 報告資料の作成
-  **コーディングテスト（3限目，13:15-14:45）**　試験問題 [📖](https://www.dropbox.com/scl/fi/tsqicav591psb58sumbvo/250708_-_.pdf?rlkey=5w05q8u5ahw0aquigsw6w06ss&st=imzlsnc1&dl=0)
+  **コーディングテスト（3限目，13:15-14:45）**　試験問題 [📖](https://www.dropbox.com/scl/fi/tsqicav591psb58sumbvo/250708_-_.pdf?rlkey=fcrx5tk87jwcmiw4c6auvtw8r&st=0iwy9024&dl=0)
   - 試験問題はPandAにもアップロードします
   - 試験時間：60分（Exam duration: 60 minutes）
   - 資料の持ち込みおよびweb検索は可．生成AIの能動的な使用と周囲との相談は不可（You can bring reference materials and perform web searches. Active use of generative AI and consultation with others are not allowed）
