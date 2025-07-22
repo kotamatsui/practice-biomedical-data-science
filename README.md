@@ -144,6 +144,7 @@
   - 余裕がある班は追加の解析などを実施しても良い
   
 ### 第14回(7/22): グループ実習6: プレゼンテーション
+プレゼン資料投稿フォーム（google form）[📮](https://docs.google.com/forms/d/e/1FAIpQLSd68HeTWuuv70LQpG3uI1x-WuazwYOM5tiMUueKjFdTf-AgXw/viewform?usp=dialog)
 
 <!--
 ## 講義資料
